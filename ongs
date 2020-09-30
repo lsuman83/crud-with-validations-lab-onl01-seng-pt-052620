@@ -1,0 +1,18 @@
+=> [[32m#<Song:0x00007fffdc19db90[0m
+  id: [1;34m1[0m,
+  title: [31m[1;31m"[0m[31mRhythms Which I Played[1;31m"[0m[31m[0m,
+  released: [1;36mtrue[0m,
+  release_year: [1;34m2000[0m,
+  artist_name: [31m[1;31m"[0m[31mMan With Instruments[1;31m"[0m[31m[0m,
+  genre: [31m[1;31m"[0m[31mNormcore[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m30[0m [1;34;4mSep[0m [1;34m2020[0m [1;34m17[0m:[1;34m23[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m30[0m [1;34;4mSep[0m [1;34m2020[0m [1;34m17[0m:[1;34m23[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Song:0x00007fffdc19da50[0m
+  id: [1;34m2[0m,
+  title: [31m[1;31m"[0m[31mRhythms Which I Played Again at a Later Time[1;31m"[0m[31m[0m,
+  released: [1;36mtrue[0m,
+  release_year: [1;34m2004[0m,
+  artist_name: [31m[1;31m"[0m[31mMan With Instruments[1;31m"[0m[31m[0m,
+  genre: [31m[1;31m"[0m[31mSci-Crust Fizz-Punk[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m30[0m [1;34;4mSep[0m [1;34m2020[0m [1;34m17[0m:[1;34m23[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m30[0m [1;34;4mSep[0m [1;34m2020[0m [1;34m17[0m:[1;34m23[0m:[1;34m54[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
